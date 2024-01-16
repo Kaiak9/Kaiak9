@@ -8,5 +8,5 @@
 
 > o pai tem muitas skills slk
 
-![kaiak GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiak9&show_icons=true&theme=radical)
+![meus status no github](https://github-readme-stats.vercel.app/api?username=Kaiak9&show_icons=true&theme=radical)
 
