@@ -1,5 +1,5 @@
 ## Ola, me chamo Kaiak ❣️
-> bom, não sou o melhor com essas coisas de tech, mas to melhorando a cada dia e é isso q importa (eu acho, sla), por enquato to focando no Java pra no futuro conseguir uma vagazinha bem humilde de senior 😆
+> bom, não sou o melhor com tech, mas to melhorando a cada dia e é isso q importa (eu acho, sla), por enquato to focando no Java pra no futuro conseguir uma vagazinha bem humilde de senior 😆
 ### caso queira conversar comigo, sempre estou nesse servidor:  [![img-discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://lughzone.com/discord)
 
 ### vou deixar minhas skills logo abaixo😎
