@@ -1,5 +1,20 @@
 ## Ola, me chamo Kaiak ❣️
-> bom, não sou o melhor com tech, mas to melhorando a cada dia e é isso q importa (eu acho, sla), por enquato to focando no Java pra no futuro conseguir uma vagazinha bem humilde de senior 😆
+ ```java
+ import java.util.Arrays;
+ import java.util.List;
+
+public class Whoami {
+    private String nome = "Felipe de Souza";
+    private int idade = 15;
+    private List<String> skills = Arrays.asList("Java", "Python", "Linux");
+    private String localidade = "Brazil, AM";
+
+    public static void main(String[] args) {
+        Whoami whoamiInstance = new Whoami();
+    }
+}
+```
+  
 ### caso queira conversar comigo, sempre estou nesse servidor:  [![img-discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://lughzone.com/discord)
 
 ### vou deixar minhas skills logo abaixo😎
